@@ -6,8 +6,8 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #edf3f8;
-  color: #0b1a33;
+  background-color: #f5f0ff;
+  color: #1a1033;
 }
 
 /* ---------- LINKS ---------- */
@@ -15,40 +15,40 @@ a {
   color: #ffffff;
   text-decoration: none;
   font-weight: bold;
-  background-color: #1e3a6e;
+  background-color: #3b2477;
   padding: 8px 14px;
   border-radius: 6px;
   font-size: 14px;
 }
 
 a:hover {
-  color: #0b1a33;
-  background-color: #ffd23f;
+  color: #1a1033;
+  background-color: #ff7a3d;
 }
 
 a.ativo {
-  color: #0b1a33;
-  background-color: #ffd23f;
+  color: #1a1033;
+  background-color: #ff7a3d;
 }
 
 .botao-amarelo {
-  color: #0b1a33;
-  background-color: #ffd23f;
+  color: #1a1033;
+  background-color: #ff7a3d;
 }
 
 .botao-amarelo:hover {
   color: #ffffff;
-  background-color: #1a8abf;
+  background-color: #0b7f74;
 }
 
 .botao-azul {
   color: #ffffff;
-  background-color: #1e3a8a;
+  background-color: #5b21b6;
 }
 
 /* ---------- CABEÇALHO E RODAPÉ ---------- */
 header {
-  background-color: #0b1a33;
+  background-color: #1a1033;
   padding: 16px 60px;
   display: flex;
   justify-content: space-between;
@@ -68,8 +68,8 @@ header {
 }
 
 .logo-icone {
-  background-color: #ffd23f;
-  color: #0b1a33;
+  background-color: #ff7a3d;
+  color: #1a1033;
   font-weight: bold;
   width: 36px;
   height: 36px;
@@ -85,11 +85,11 @@ nav {
 }
 
 .link-destaque {
-  background-color: #1e3a6e;
+  background-color: #3b2477;
 }
 
 footer {
-  background-color: #0b1a33;
+  background-color: #1a1033;
   padding: 24px 60px;
   display: flex;
   justify-content: space-between;
@@ -110,7 +110,7 @@ footer p {
 
 /* ---------- TEXTOS PEQUENOS E TÍTULOS ---------- */
 .texto-pequeno {
-  color: #ffd23f;
+  color: #ff7a3d;
   text-transform: uppercase;
   font-weight: bold;
   font-size: 13px;
@@ -118,7 +118,7 @@ footer p {
 }
 
 .texto-pequeno-azul {
-  color: #1a6fd1;
+  color: #7c3aed;
   text-transform: uppercase;
   font-weight: bold;
   font-size: 13px;
@@ -126,18 +126,18 @@ footer p {
 }
 
 em {
-  color: #ffd23f;
+  color: #ff7a3d;
 }
 
 .titulo-secao h2 {
-  color: #1e3a8a;
+  color: #5b21b6;
   font-size: 32px;
   margin-top: 6px;
 }
 
 /* ---------- PÁGINA INICIAL ---------- */
 #hero {
-  background-color: #10264a;
+  background-color: #2b1a52;
   padding: 50px 60px;
   display: flex;
   align-items: center;
@@ -173,8 +173,8 @@ em {
 }
 
 .legenda-amarela {
-  background-color: #ffd23f;
-  color: #0b1a33;
+  background-color: #ff7a3d;
+  color: #1a1033;
   text-align: center;
   font-weight: bold;
   padding: 10px;
@@ -203,7 +203,7 @@ em {
 }
 
 #chamada {
-  background-color: #1a8abf;
+  background-color: #0b7f74;
   padding: 40px 60px;
   text-align: center;
 }
@@ -215,7 +215,7 @@ em {
 
 /* ---------- TOPO DAS PÁGINAS INTERNAS ---------- */
 .topo-pagina {
-  background-color: #10264a;
+  background-color: #2b1a52;
   padding: 40px 60px;
 }
 
@@ -258,7 +258,7 @@ em {
 
 .card-local {
   display: block;
-  color: #1a8abf;
+  color: #0b7f74;
   font-weight: bold;
   font-size: 12px;
   margin: 12px 0 6px 0;
@@ -305,12 +305,12 @@ em {
 }
 
 #curiosidades-txt h2 {
-  color: #1e3a8a;
+  color: #5b21b6;
   margin: 6px 0 16px 0;
 }
 
 .curiosidade {
-  background-color: #e3eef7;
+  background-color: #ece4fb;
   border-radius: 10px;
   padding: 14px;
   margin-bottom: 12px;
